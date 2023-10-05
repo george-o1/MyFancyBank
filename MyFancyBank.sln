@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFancyBank.BusinessLogic",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFancyBank.Data", "MyFancyBank.Data\MyFancyBank.Data.csproj", "{462E65EC-A23E-405C-B3CB-D8E7496A92AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFancyBank.Tests", "MyFancyBank.Tests\MyFancyBank.Tests.csproj", "{3840672E-C112-4434-89AD-8069444A54E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFancyBank.Tests", "MyFancyBank.Tests\MyFancyBank.Tests.csproj", "{3840672E-C112-4434-89AD-8069444A54E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

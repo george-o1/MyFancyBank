@@ -24,4 +24,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyFancyBank.BusinessLogic\MyFancyBank.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
